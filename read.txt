@@ -1,0 +1,5 @@
+
+VS CODE - NEW TERMINAL - SELECT OPTION- OPEN FOLDER -
+THEN SELECT THE FOLDER TO FROM DESKTOP IT WILL OPEN ALL FILES  IN VS CODE
+AFTER THAT index.js file IS TO BE run and then-> run without debugging ->
+server will strat on localhost 3000 and then can be stop by SQUARE SIGN on vs terminal at top side.
